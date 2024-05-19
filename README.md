@@ -1,5 +1,6 @@
-# ShopEase-Ecommerce-app
- A feature-rich MERN stack E-commerce app, employing React for dynamic UI and Express/Node.js for secure back-end. Utilized MongoDB for data storage, integrating a dummy payment gateway and diverse filters for enhanced user experience.
+# ShopEase - Ecommerce Application
+Welcome to the E-Commerce Application, a feature-rich and user-friendly online shopping platform built with the MERN stack. This project demonstrates the integration of React for a dynamic UI, Express/Node.js for a secure back-end, and MongoDB for efficient data storage.
+Implements bcrypt for password protection, ensuring secure user authentication and data protection. Additionally, it includes a dummy payment gateway and various filters to enhance the user experience.
 
 ## How to run on local machine 💻
 
@@ -59,6 +60,8 @@ For Payment Gateway
 
 **Database:** MongoDB Atlas
 
+**Authentication:** bcrypt
+
 ## Dependencies ⬇️
 
 **Client:** 
@@ -87,6 +90,13 @@ For Payment Gateway
 - jsonwebtoken (For token)
 - mongoose (object modeling tool for MongoDB)
 - morgan (To log requests)
-- multer (for handling multipart/form-data)
-- pdf-lib (To modify PDF files )
 - slugify ( For word manipulation)
+- 
+## Authors ✍️
+
+- [@Aditib611](https://github.com/Aditib611) 
+
+
+## Support/Feedback ❤️
+
+For support/Feedback, email aditibhavsar26@gmail.com 📩.
