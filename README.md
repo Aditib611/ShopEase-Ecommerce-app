@@ -1,6 +1,8 @@
 # ShopEase-Ecommerce-app
  A feature-rich MERN stack E-commerce app, employing React for dynamic UI and Express/Node.js for secure back-end. Utilized MongoDB for data storage, integrating a dummy payment gateway and diverse filters for enhanced user experience.
 
+## How to run on local machine 💻
+
  To install server-side dependencies:
 
 
