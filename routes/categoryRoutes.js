@@ -6,7 +6,7 @@ import {
   deleteCategoryController,
   singleCategoryController,
   updateCategoryController,
-} from "../controllers/CategoryController.js";
+} from "../controllers/categoryController.js";
 //import { isAdmin } from "middlewaresauthMiddleware";
 
 const router = express.Router();
